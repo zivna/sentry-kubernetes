@@ -1,5 +1,5 @@
 # sentry-kubernetes
 sentry kubernetes yaml
 
-kubectl create -d sentry.yaml
+kubectl create -f sentry.yaml
 
